@@ -1,6 +1,11 @@
 # Object-Oritented-Programming
 Notes and Projects for Object Oriented Programming
 
+## Python Crash Course
+Solving the problems of OOP from the book "Python Crash Course"
+- Making restaurant class
+
+
 ## Tools that I'm using and learning along the way
 - Git/GitHub
 - VS Code/Vim
